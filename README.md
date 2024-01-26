@@ -10,6 +10,4 @@
 
 查看 [适配 APP 列表](./AppList.md)
 
-如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](./CONTRIBUTING.md)
-
 ## 感谢原作者[@lisonge](https://github.com/lisonge)
